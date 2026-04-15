@@ -1,0 +1,7 @@
+asl_project/data/
+asl_project/venv/
+asl_project/outputs/
+asl_project/__pycache__/
+**/__pycache__/
+*.pyc
+.qodo/
